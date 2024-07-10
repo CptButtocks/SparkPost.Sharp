@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34526.213
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparkPost.Sharp", "SparkPost.Sharp\SparkPost.Sharp.csproj", "{93E13805-973F-4EB9-B119-DD8C3BB77D2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93E13805-973F-4EB9-B119-DD8C3BB77D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93E13805-973F-4EB9-B119-DD8C3BB77D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93E13805-973F-4EB9-B119-DD8C3BB77D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93E13805-973F-4EB9-B119-DD8C3BB77D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57671776-F416-42A4-BB37-7EF6A4D2BF64}
+	EndGlobalSection
+EndGlobal
