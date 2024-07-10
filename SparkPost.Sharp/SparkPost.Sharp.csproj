@@ -4,6 +4,14 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Title>SparkPost Sharp</Title>
+    <Authors>$(AssemblyName)</Authors>
+    <Description>A C# SparkPost API wrapper using Dependency Injection</Description>
+    <Copyright>@ Ronan Vonk - 2024</Copyright>
+    <PackageProjectUrl>https://github.com/CptButtocks/SparkPost.Sharp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/CptButtocks/SparkPost.Sharp</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
